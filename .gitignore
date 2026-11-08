@@ -1,0 +1,6 @@
+# Ignorar todo el contenido del repositorio
+*
+
+# Excepto el propio .gitignore y la lista final
+!.gitignore
+!ultimate.m3u
